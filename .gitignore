@@ -1,0 +1,11 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+backend/*.log
+
+# OS
+.DS_Store
+Thumbs.db
